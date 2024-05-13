@@ -2,8 +2,8 @@
 
 ![Redis](https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120)
 
-This notebook is an adapted and simplified version of the RedisInsight QuickGuide "Working with Hashes".
+Este notebook é uma versão adaptada e simplificada do Guia Rápido do RedisInsight "Trabalhando com Hashes".
 
-For the full experience we'd recommend installing Redis Insight and going through tutorial there.
+Para a experiência completa, recomendamos instalar o Redis Insight e seguir o tutorial lá também.
 
 https://redis.com/redis-enterprise/redis-insight/
