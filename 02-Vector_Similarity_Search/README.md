@@ -1,4 +1,4 @@
-# Vector Similarity Search with Redis
+# Vector Similarity Search com Redis
 
 [Always-on demo by Anton](https://antonum-redis-vss-streamlit-streamlit-app-p4z5th.streamlit.app/)
 
