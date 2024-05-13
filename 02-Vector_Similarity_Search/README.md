@@ -7,7 +7,7 @@
 
 Este notebook irá gerar embeddings para o VectorDB (Redis) usando um modelo pré-treinado gratuito: `sentence-transformers/all-MiniLM-L6-v2`
 
-Este modelo é da [HuggingFace](https://huggingface.co/) ! Deem uma olhada nos Sentence Transformers. Quando eu quero overkill, uso outro:
+Este modelo é da [HuggingFace](https://huggingface.co/) ! Deem uma olhada nos Sentence Transformers. Quando eu quero overkill, uso outro da HF também:
 ```
 VSS_INDEX_TYPE = "HNSW"
 VSS_DATA_TYPE = "FLOAT32"
