@@ -1,9 +1,9 @@
-# RedisJSON and RediSearch
+# RedisJSON e RediSearch
 
 ![Redis](https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120)
 
-This notebook is an adapted and simplified version of the RedisInsight QuickGuide "Working with JSON".
+Esse notebook é uma adaptação simplificada do material que já existe na documentação. Aqui, é o nosso viés para Demo, mas o conhecimento é equivalente.
 
-For the full experience we'd recommend installing Redis Insight and going through tutorial there.
+Para uma experiência premium, como o que eu quero que vocês tenham, recomendo MUITO utilizar o Redis Insight (App ou Web) pra apoiar na visualização dos dados.
 
 https://redis.com/redis-enterprise/redis-insight/
