@@ -1,4 +1,4 @@
-# Redis-Workshops
+# Redis in PT-BR by Gabs! A demo for Redis VectorDB, LLM, and RAG.
 
 ![Redis](https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120)
 
@@ -11,16 +11,16 @@
 
 </div>
 
-Collection of Google-Colab - based notebooks highlighting different aspects of Redis Enterprise and Redis Stack.
+Uma Collection feita com Google-Colab-based notebooks, passando por diferentes aspectos do Redis Enterprise e Redis Stack.
 
 
-## Common Tools
+## Ferramentas
 
 - https://redis.io/try-free/ Free Redis Cloud account
 - https://redis.io/insight/ Redis Insight
 - https://redis.io/download/ Redis Stack
 
-## Documentation
+## Documentação em Inglês
 
 - https://redis.io/docs/latest/ Redis Documentation
 - https://redis.io/commands/ Redis Commands Reference
